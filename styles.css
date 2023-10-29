@@ -29,6 +29,7 @@ flex-direction:column;
 	border-radius:20px;
 	padding-inline:50px;
 	height:10vh;
+	text-align:center;
 }
 .pictorial-news-section{
 	display:flex;
@@ -37,6 +38,7 @@ flex-direction:column;
 	background-color:white;
 	border-radius:20px;
 	height:50vh;
+	text-align:center;
 }
 .main{
 display:flex:
@@ -47,9 +49,10 @@ background-color:white;
 border-radius:20px;
 padding-inline:20px;
 height:30vh;
+text-align:center;
 	
 }
-h3{
+  h3 h2{
 text-align:center;
 }
 img{
